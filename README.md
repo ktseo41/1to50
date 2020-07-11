@@ -1,9 +1,8 @@
-## React와 Parcel bundler를 이용한 리액트 보일러플레이트
+## React 렌더링 최적화 공부를 위한 1to50 게임
 
-### 실행
+### install & start
 
 ```bash
 npm i
 npm start
-# http://localhost:1234 로 접속!
 ```
